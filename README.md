@@ -3,6 +3,11 @@ language: de
 narrator: Deutsch Female
 -->
 
+- GitHub: https://github.com/MINT-the-GAP/Demo-2025
+- LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/MINT-the-GAP/Demo-2025/refs/heads/main/README.md
+- LiveEditor: https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/MINT-the-GAP/Demo-2025/refs/heads/main/README.md
+
+
 # LiaScript Demo / Tutorial
 
     --{{0}}--
